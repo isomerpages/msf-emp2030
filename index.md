@@ -15,13 +15,16 @@ sections:
       key_highlights:
         - title: What is the Enabling Masterplan
           description: ""
-          url: https://google.com
+          url: /collection
         - title: Members of the Steering Committee
           description: People, Private, Public
           url: https://gmail.com
         - title: Goals and Topline Indicators
           description: ""
           url: /privacy/
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle

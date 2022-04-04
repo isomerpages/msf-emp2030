@@ -33,9 +33,8 @@ sections:
       subtitle: Learn more
       button: View More
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: Eric Chua
+      subtitle: PICTURE 1
+      description: In 2030, i hope that
       alt: Image alt text
 ---

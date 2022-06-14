@@ -1,4 +1,5 @@
 collections:
   14-identified-areas:
     output: true
-    order: []
+    order:
+      - page.md

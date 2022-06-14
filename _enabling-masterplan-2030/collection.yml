@@ -1,4 +1,5 @@
 collections:
   enabling-masterplan-2030:
     output: true
-    order: []
+    order:
+      - Disability in 2030.md

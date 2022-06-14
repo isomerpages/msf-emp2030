@@ -4,9 +4,9 @@ links:
     collection: enabling-masterplan-2030
   - title: Focus Areas
     collection: focus-areas
-  - title: STories
+  - title: Stories
     collection: focus-areas
   - title: Resources
-    collection: focus-areas
+    resource_room: true
   - title: Contact Us
     url: /contact-us/

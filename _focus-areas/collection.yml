@@ -2,10 +2,10 @@ collections:
   focus-areas:
     output: true
     order:
-      - Enablers/Enabler C.md
-      - Enablers/Enabler B.md
-      - Enablers/Enabler A.md
       - Enablers/.keep
+      - Enablers/Enabler A.md
+      - Enablers/Enabler B.md
+      - Enablers/Enabler C.md
       - Area 1.md
       - Area 2.md
       - Area 3.md

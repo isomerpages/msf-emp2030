@@ -2,5 +2,6 @@ collections:
   14-identified-areas:
     output: true
     order:
+      - Page 3.md
       - Page 2.md
       - page.md

@@ -2,9 +2,9 @@ logo: /images/isomer-logo.svg
 links:
   - title: Contact Us
     url: /contact-us/
-  - title: Topline goals
-    url: /test pdf
   - title: Initiatives
-    collection: collection
+    collection: 14-identified-areas
   - title: Resource
     resource_room: true
+  - title: 14 areas
+    collection: 14-identified-areas

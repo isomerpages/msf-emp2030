@@ -2,6 +2,7 @@ collections:
   focus-areas:
     output: true
     order:
+      - Enablers/.keep
       - Area 1.md
       - Area 2.md
       - Area 3.md

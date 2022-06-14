@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: What is the Enabling Masterplan
           description: ""
-          url: /enabling-masterplan/
+          url: /resource/enabling-masterplan/permalink
         - title: Members of the Steering Committee
           description: People, Private, Public
           url: /test pdf/

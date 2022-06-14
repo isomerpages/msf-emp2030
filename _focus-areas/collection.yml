@@ -1,5 +1,5 @@
 collections:
-  14-identified-areas:
+  focus-areas:
     output: true
     order:
       - Page 3.md

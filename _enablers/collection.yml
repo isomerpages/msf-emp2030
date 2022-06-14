@@ -2,5 +2,6 @@ collections:
   enablers:
     output: true
     order:
+      - Enabler C.md
       - Enabler B.md
       - Enabler A.md

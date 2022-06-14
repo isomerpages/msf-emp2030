@@ -10,7 +10,7 @@ sections:
       title: Enabling Masterplan 2030
       subtitle: Charting the way for an Inclusive Singapore by 2030
       background: /images/hero-banner.png
-      button: Contact Us
+      button: PDF Report
       url: /contact-us/
       key_highlights:
         - title: What is the Enabling Masterplan

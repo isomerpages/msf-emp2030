@@ -1,4 +1,5 @@
 collections:
   enablers:
     output: true
-    order: []
+    order:
+      - Enabler A.md

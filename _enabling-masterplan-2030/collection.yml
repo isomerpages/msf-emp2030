@@ -2,5 +2,6 @@ collections:
   enabling-masterplan-2030:
     output: true
     order:
+      - Goals and Indicators.md
       - EMP2030 Vision and Strategy.md
       - Disability in 2030.md

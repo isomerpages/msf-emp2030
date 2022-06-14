@@ -2,6 +2,7 @@ collections:
   focus-areas:
     output: true
     order:
+      - Area 5.md
       - Area 6.md
       - Area 7.md
       - Area 8.md

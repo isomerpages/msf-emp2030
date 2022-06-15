@@ -2,6 +2,7 @@ collections:
   focus-areas:
     output: true
     order:
+      - Mainstreaming Disability/.keep
       - Living Independently/.keep
       - Lifelong learning and employability.md
       - Strat Thrust 1/.keep

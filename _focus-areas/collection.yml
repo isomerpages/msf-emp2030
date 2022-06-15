@@ -2,6 +2,7 @@ collections:
   focus-areas:
     output: true
     order:
+      - LIfelong Learning & Employment/Lifelong learning and employability.md
       - LIfelong Learning & Employment/.keep
       - EMP2030 Strategic Themes.md
       - Quality of Life.md

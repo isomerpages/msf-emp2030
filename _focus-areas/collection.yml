@@ -2,6 +2,7 @@ collections:
   focus-areas:
     output: true
     order:
+      - Strat thrust 2/Area 6.md
       - Strat thrust 2/Area 5.md
       - Strat thrust 2/.keep
       - Strat Thrust 1/Area 4.md

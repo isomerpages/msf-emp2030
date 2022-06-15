@@ -2,10 +2,10 @@ collections:
   focus-areas:
     output: true
     order:
-      - Achieving the EMP2030 Vision.md
-      - Disability in 2030.md
-      - Executive Summary.md
       - Foreword.md
+      - Executive Summary.md
+      - Disability in 2030.md
+      - Achieving the EMP2030 Vision.md
       - Mainstreaming Disability/.keep
       - Living Independently/.keep
       - Lifelong learning and employability.md

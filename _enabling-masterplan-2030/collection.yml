@@ -2,11 +2,11 @@ collections:
   enabling-masterplan-2030:
     output: true
     order:
+      - Disability in 2030.md
+      - EMP2030 Vision and Strategy.md
+      - Goals and Indicators.md
+      - Developing the Masterplan/.keep
       - Developing the Masterplan/EMP2030 Steering Committee Members.md
       - Developing the Masterplan/Behind the Scenes for the public
         consultations.md
       - Developing the Masterplan/Developing the Masterplan.md
-      - Developing the Masterplan/.keep
-      - Disability in 2030.md
-      - EMP2030 Vision and Strategy.md
-      - Goals and Indicators.md

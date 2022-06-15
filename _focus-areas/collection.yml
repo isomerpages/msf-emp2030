@@ -2,6 +2,7 @@ collections:
   focus-areas:
     output: true
     order:
+      - Enablers/Enabler C.md
       - Enablers/Enabler B.md
       - Enablers/Enabler A.md
       - Enablers/.keep

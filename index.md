@@ -10,6 +10,18 @@ sections:
       title: Enabling Masterplan 2030
       subtitle: Charting the way for an Inclusive Singapore by 2030
       background: /images/hero-banner.png
-      button: PDF Report
-      url: /contact-us/
+      dropdown:
+        title: Report
+        options:
+          - title: AAA
+            url: ""
+          - title: BBB
+            url: ""
+          - title: CCC
+            url: ""
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
 ---

@@ -2,7 +2,6 @@ collections:
   focus-areas:
     output: true
     order:
-      - Foreward.md
       - Mainstreaming Disability/.keep
       - Living Independently/.keep
       - Lifelong learning and employability.md

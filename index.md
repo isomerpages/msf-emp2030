@@ -11,7 +11,7 @@ sections:
       subtitle: Charting the way for an Inclusive Singapore by 2030
       background: /images/hero-banner.png
       dropdown:
-        title: Report
+        title: ""
         options:
           - title: AAA
             url: /Resources
@@ -19,9 +19,22 @@ sections:
             url: ""
           - title: CCC
             url: ""
-  - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
       button: Button Text
+      alt: Image alt text
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---

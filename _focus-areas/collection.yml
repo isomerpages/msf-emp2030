@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Strat Thrust 1/.keep
-      - Area 1.md
       - Area 2.md
       - Area 3.md
       - Area 4.md

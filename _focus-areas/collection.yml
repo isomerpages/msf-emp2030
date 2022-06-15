@@ -2,6 +2,7 @@ collections:
   focus-areas:
     output: true
     order:
+      - EMP2030 Strategic Themes.md
       - Quality of Life.md
       - Foreword.md
       - Executive Summary.md

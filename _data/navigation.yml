@@ -10,10 +10,5 @@ links:
     url: /Resources
   - title: Contact Us
     url: /contact-us/
-  - title: Focus
-    url: /permalink
-    sublinks:
-      - title: Strategic Thrust 1
-        url: /Resources
-      - title: Strategic Thrust 2
-        url: /permalink
+  - title: Hopes for 2030
+    collection: enablers

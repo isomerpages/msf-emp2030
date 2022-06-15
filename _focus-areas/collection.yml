@@ -2,7 +2,6 @@ collections:
   focus-areas:
     output: true
     order:
-      - Data Sources/.keep
       - Foreword.md
       - Executive Summary.md
       - Disability in 2030.md
@@ -17,3 +16,4 @@ collections:
       - Enablers/Enabler C.md
       - Enablers/Enabler B.md
       - Enablers/Enabler A.md
+      - Data Sources/.keep

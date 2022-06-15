@@ -2,6 +2,8 @@ collections:
   enabling-masterplan-2030:
     output: true
     order:
+      - Developing the Masterplan/Behind the Scenes for the public
+        consultations.md
       - Developing the Masterplan/Developing the Masterplan.md
       - Developing the Masterplan/.keep
       - Disability in 2030.md

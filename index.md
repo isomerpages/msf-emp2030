@@ -11,14 +11,14 @@ sections:
       subtitle: Charting the way for an Inclusive Singapore by 2030
       background: /images/hero-banner.png
       dropdown:
-        title: ""
+        title: Quick Links
         options:
-          - title: AAA
+          - title: Read about the EMP2030
+            url: /foreword
+          - title: View the Infographic Summary
+            url: ""
+          - title: Download the Full Report
             url: /Resources
-          - title: BBB
-            url: ""
-          - title: CCC
-            url: ""
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle

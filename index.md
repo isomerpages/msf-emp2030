@@ -14,7 +14,7 @@ sections:
         title: Quick Links
         options:
           - title: Read about the EMP2030
-            url: /foreword
+            url: /focus-areas/permalink
           - title: View the Infographic Summary
             url: ""
           - title: Download the Full Report

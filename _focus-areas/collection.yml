@@ -2,24 +2,24 @@ collections:
   focus-areas:
     output: true
     order:
+      - Strat Thrust 1/.keep
+      - Strat Thrust 1/Area 4.md
+      - Strat Thrust 1/Area 3.md
+      - Strat Thrust 1/Area 2.md
+      - Strat Thrust 1/Area 1.md
+      - Enablers/.keep
       - Enablers/Enabler C.md
       - Enablers/Enabler B.md
       - Enablers/Enabler A.md
-      - Enablers/.keep
+      - Strat thrust 3/.keep
       - Strat thrust 3/Area 14.md
       - Strat thrust 3/Area 13.md
       - Strat thrust 3/Area 12.md
       - Strat thrust 3/Area 11.md
-      - Strat thrust 3/.keep
+      - Strat thrust 2/.keep
       - Strat thrust 2/Area 10.md
       - Strat thrust 2/Area 9.md
       - Strat thrust 2/Area 8.md
       - Strat thrust 2/Area 7.md
       - Strat thrust 2/Area 6.md
       - Strat thrust 2/Area 5.md
-      - Strat thrust 2/.keep
-      - Strat Thrust 1/Area 4.md
-      - Strat Thrust 1/Area 3.md
-      - Strat Thrust 1/Area 2.md
-      - Strat Thrust 1/Area 1.md
-      - Strat Thrust 1/.keep

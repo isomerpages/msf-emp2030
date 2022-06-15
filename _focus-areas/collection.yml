@@ -2,6 +2,7 @@ collections:
   focus-areas:
     output: true
     order:
+      - Executive Summary.md
       - Foreword.md
       - Mainstreaming Disability/.keep
       - Living Independently/.keep
